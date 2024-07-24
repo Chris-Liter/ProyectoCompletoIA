@@ -1,0 +1,9 @@
+[submodule "Backend"]
+	path = Backend
+	url = https://github.com/Chris-Liter/APIObesidadSpring-boot.git
+[submodule "Backend(Modelo Machine Learning)"]
+	path = Backend(Modelo Machine Learning)
+	url = https://github.com/Chris-Liter/API_IA.git
+[submodule "Frontend"]
+	path = Frontend
+	url = https://github.com/Se8as23/chatbot_FrontEnd.git
